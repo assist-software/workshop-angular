@@ -17,7 +17,8 @@ bower install
 ```
     
     You will need a HTTP server to serve the files from the project directory.
-    Also the back-end service is not provided, you can use a 3rd party auth provider. Just change the URL in the config module:
+    Also the back-end service is not provided, you can use a 3rd party auth provider. 
+    Just change the URL in the config module:
     
 ```
 app/js/app.js
